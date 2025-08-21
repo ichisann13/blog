@@ -1,4 +1,4 @@
-WSL2提供的Archlinux默认是没有AUR和32位库的，需要手动开启
+**WSL2提供的Archlinux默认是没有AUR和32位库的，需要手动开启**
 
 # 添加archlinuxcn源和开启32位库
 ```
@@ -27,3 +27,4 @@ sudo pacman -Syu && paru
 ```
 
 之后就可以用AUR了
+
